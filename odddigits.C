@@ -13,5 +13,5 @@ print("%d",s);
 }
 n=n/10;
 }
-return 0
+return 0;
 }
